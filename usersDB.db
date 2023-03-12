@@ -1,0 +1,4 @@
+User 1: Vladimir Danilov, type: Student, age: 47, sex: male,faculty: Foreign languages, group: B427
+User 2: Elena, type: Student, age: 34, sex: female,faculty: Foreign languages, group: A345
+User 3: Galina Petrovna, type: Teacher, age: 56, sex: female, subject taught: History
+User 4: Igor Pupkin, type: Student, age: 36, sex: null,faculty: null, group: null
