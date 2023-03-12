@@ -1,6 +1,6 @@
-package homework6.SOLID.MVCsample002.service;
+package seminar6.SOLID.MVCsample002.service;
 
-import homework6.SOLID.MVCsample002.model.User;
+import seminar6.SOLID.MVCsample002.model.User;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

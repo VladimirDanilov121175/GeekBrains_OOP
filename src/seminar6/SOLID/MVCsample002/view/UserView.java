@@ -1,10 +1,10 @@
-package homework6.SOLID.MVCsample002.view;
+package seminar6.SOLID.MVCsample002.view;
 
-import homework6.SOLID.MVCsample002.controller.UserController;
-import homework6.SOLID.MVCsample002.model.Student;
-import homework6.SOLID.MVCsample002.model.StudentBuilder;
-import homework6.SOLID.MVCsample002.model.Teacher;
-import homework6.SOLID.MVCsample002.model.User;
+import seminar6.SOLID.MVCsample002.controller.UserController;
+import seminar6.SOLID.MVCsample002.model.Student;
+import seminar6.SOLID.MVCsample002.model.StudentBuilder;
+import seminar6.SOLID.MVCsample002.model.Teacher;
+import seminar6.SOLID.MVCsample002.model.User;
 
 public class UserView {
     public static void main(String[] args) {

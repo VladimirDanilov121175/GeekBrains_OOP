@@ -1,4 +1,4 @@
-package homework6.SOLID.MVCsample002.model;
+package seminar6.SOLID.MVCsample002.model;
 
 public abstract class User {
     protected int id;

@@ -1,8 +1,8 @@
-package homework6.SOLID.MVCsample002.controller;
+package seminar6.SOLID.MVCsample002.controller;
 
-import homework6.SOLID.MVCsample002.service.UserInterface;
-import homework6.SOLID.MVCsample002.service.UserInterfaceImpl;
-import homework6.SOLID.MVCsample002.model.User;
+import seminar6.SOLID.MVCsample002.service.UserInterface;
+import seminar6.SOLID.MVCsample002.service.UserInterfaceImpl;
+import seminar6.SOLID.MVCsample002.model.User;
 
 public class UserController {
 

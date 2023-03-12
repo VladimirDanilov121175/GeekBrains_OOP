@@ -1,4 +1,4 @@
-package homework6.SOLID.MVCsample002.model;
+package seminar6.SOLID.MVCsample002.model;
 
 public class Student extends User{
     private String group;

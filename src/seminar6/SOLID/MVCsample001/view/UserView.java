@@ -1,6 +1,6 @@
-package homework6.SOLID.MVCsample001.view;
+package seminar6.SOLID.MVCsample001.view;
 
-import homework6.SOLID.MVCsample001.controller.UserController;
+import seminar6.SOLID.MVCsample001.controller.UserController;
 
 // Можно представить как аналог Main и определить в нем метод main, т.е. точку входа программы
 public class UserView {

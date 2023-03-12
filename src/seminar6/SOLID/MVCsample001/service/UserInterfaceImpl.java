@@ -1,6 +1,6 @@
-package homework6.SOLID.MVCsample001.service;
+package seminar6.SOLID.MVCsample001.service;
 
-import homework6.SOLID.MVCsample001.model.User;
+import seminar6.SOLID.MVCsample001.model.User;
 
 import java.io.FileWriter;
 import java.util.logging.Logger;

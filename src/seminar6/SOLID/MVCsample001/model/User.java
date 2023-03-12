@@ -1,4 +1,4 @@
-package homework6.SOLID.MVCsample001.model;
+package seminar6.SOLID.MVCsample001.model;
 
 public class User {
     private String name;
